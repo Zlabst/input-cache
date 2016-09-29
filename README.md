@@ -37,6 +37,3 @@ This is useful if you want to remember what your users had typed so far on your 
 ```
 
 This example show a confirm box containing a stringified version of the cache before the user leaves the page.
-
-## TODO
-1. An an example folder with an example client and server
