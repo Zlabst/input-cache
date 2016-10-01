@@ -36,4 +36,6 @@ This is useful if you want to remember what your users had typed so far on your 
 </html>
 ```
 
-This example show a confirm box containing a stringified version of the cache before the user leaves the page.
+This example show a confirm box containing a stringified version of the cache before the user leaves the page.   
+
+More examples can be found in the examples directory
